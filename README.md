@@ -27,3 +27,5 @@
         git init project_name
         cd project_name
         ```
+* 工作区、暂存区、版本历史的关系
+    * 工作区-->git add . --> 暂存区 --> git commit -m "xxx" -->  版本历史
