@@ -1,7 +1,0 @@
-Hello Git
-1
-2
-3
-生成ssh密钥：ssh-keygen -t rsa -C "lyz672673107@gmail.com"
-是否成功？
-修改.git文件夹下config中的url
